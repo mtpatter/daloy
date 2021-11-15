@@ -1,6 +1,5 @@
 # Version: 0.0.1
 FROM python:3.6
-LABEL maintainer "maria.t.patterson@gmail.com"
 ENV REFRESHED_AT 2017-11-17
 
 # Install library for confluent-kafka python.
